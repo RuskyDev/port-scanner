@@ -23,3 +23,5 @@ $ python3 main.py 127.0.0.1 --start 1 --end 1000 --concurrency 200 --timeout 0.3
 
 ## Disclaimer
 This tool was created for penetration testing and educational purposes only. I take no responsibility for how this script is used.
+
+I can also develop custom penetration testing scripts for any purpose. DM me on Discord: **ruskydev**
