@@ -13,7 +13,7 @@ A super-fast port scanner tool written in pure Python with no extra dependencies
 
 ## Usage
 ```bash
-python scanner.py <target> [--start START_PORT] [--end END_PORT] [--concurrency N] [--timeout SECONDS] [--ipv6]
+python3 main.py <target> [--start START_PORT] [--end END_PORT] [--concurrency N] [--timeout SECONDS] [--ipv6]
 ````
 
 ### Example
